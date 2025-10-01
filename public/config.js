@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Trading,Leaderboard,Rewards,Markets,Vaults",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "Twitter, https://x.com/Dexus_dex?t=tYzLchCzRDo4epg3AITT6w&s=09",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/dexus_dex",
   "VITE_DISCORD_URL": "",
